@@ -1,4 +1,4 @@
-🐧 Data Visualization of Penguins Dataset
+# 🐧 Data Visualization of Penguins Dataset
 📌 Project Overview
 
 This project focuses on Data Visualization of the Penguins Dataset using Python. The aim is to explore penguin characteristics through different types of visualizations and understand the patterns, distributions, and relationships between various features.
